@@ -48,14 +48,10 @@ React · Node.js · Express.js · MongoDB · Google Gemini
 
 - Built a code editor where multiple users edit the same code at once with live synchronization using Socket.IO
 
-**AI Gurukul** | RAG-Based AI Learning Assistant | Node.js · Express.js · MongoDB · Pinecone · RAG
+**[AI Gurukul](https://github.com/bhumishah2411/AiGurukul-2.0)** | RAG-Based AI Learning Assistant | Node.js · Express.js · MongoDB · Pinecone · RAG
 
 - Built a retrieval-augmented question-answering system that finds relevant content in a vector database and passes it to an LLM
 - Prototyped locally with ChromaDB and moved to Pinecone for the live deployment
-
-**PortFlow** | Optimization Application | React · FastAPI · Python
-
-- Built a full-stack application with a React frontend and a FastAPI (Python) backend that applies optimization logic
 
 ## 🧮 Problem Solving
 
@@ -66,8 +62,3 @@ React · Node.js · Express.js · MongoDB · Google Gemini
 ## 🌍 Open Source
 
 - Participant, GirlScript Summer of Code 2026 (GSSoC'26)
-
-## 📊 GitHub Stats
-
-![Bhumi's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhumishah2411&show_icons=true&hide_border=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhumishah2411&layout=compact&hide_border=true)
